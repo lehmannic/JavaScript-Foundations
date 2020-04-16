@@ -143,7 +143,7 @@ For example, variableInterestRate(200000, 0.04, 30) should console.log:
 function variableInterestRate (P, I, N){
     const principal = P;      // principal in dollars  
     let iRate = I;
-    let variableRate = iRate - 0.02; ]
+    let variableRate = iRate - 0.02; 
     const name = 'Nic';
 
     let monthlyInterestRate = 0;
